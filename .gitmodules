@@ -1,0 +1,3 @@
+[submodule "Source/AirLib"]
+	path = Source/AirLib
+	url = git@github.com:sethmnielsen/vtol-AirLib.git
